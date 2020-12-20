@@ -9,8 +9,8 @@ For this project, I created a VBA (Visual Basic) script to analyze some stock ma
 You can find the script inside the VBAStocks folder of this repository. The script file is called AllStockAnalysisRefactored.bas and DQAnalysis.bas
 
 -After you download and open up the All Stock Analysis Excel workbook, you can run the script by doing the following:
-  - Click the Macro Button to "Run Analysis for All Stocks", when prompted just type either year "2017" or "2018"
-  - Or, Click the Macro Button to run "Refactored - Run Analysis for All Stocks", when prompted just type either year "2017" or "2018"
+  - Click the Macro Button to "Run Analysis for All Stocks", which will run Sub(AllStockAnalysis.bas), when prompted just type either year "2017" or "2018"
+  - Or, Click the Macro Button to run "Refactored - Run Analysis for All Stocks", which will run Sub(AllStocksAnalysisRefactore), when prompted just type either year "2017" or "2018"
 
 - As the script runs, it is doing the following:
   It loops through all the stocks for one year for each run and takes the following information:
